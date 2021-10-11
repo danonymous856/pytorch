@@ -147,12 +147,26 @@ If you want to write your layers in C/C++, we provide a convenient extension API
 No wrapper code needs to be written. You can see [a tutorial here](https://pytorch.org/tutorials/advanced/cpp_extension.html) and [an example here](https://github.com/pytorch/extension-cpp).
 
 
+## KEY FEATURES & CAPABILITIES
+
+### Production Ready
+Transition seamlessly between eager and graph modes with TorchScript, and accelerate the path to production with TorchServe.
+
+### Distributed Training
+Scalable distributed training and performance optimization in research and production is enabled by the torch.distributed backend.
+
+### Robust Ecosystem
+A rich ecosystem of tools and libraries extends PyTorch and supports development in computer vision, NLP and more.
+
+### Cloud Support
+PyTorch is well supported on major cloud platforms, providing frictionless development and easy scaling.
+
+
 ## Installation
 
 ### Binaries
 Commands to install from binaries via Conda or pip wheels are on our website:
 [https://pytorch.org](https://pytorch.org)
-
 
 #### NVIDIA Jetson Platforms
 
